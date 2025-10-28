@@ -5,6 +5,7 @@ Um vídeo de 57 segundos falando sobre alguns sabotadores na nossa vida.
 
 ## 🤖 Tecnologias Utilizadas
 Utilizado ChatGPT para criar o roteiro.
+
 Utilizado o D-ID para criação do avatar com minha voz.
 
 ## 🧐 Processo de Criação
