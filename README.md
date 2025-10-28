@@ -13,5 +13,7 @@ Primeiro eu escolhi o tema e solicitei um roteiro para o ChatGPT, depois eu esco
 ## 🚀 Resultados
 O vídeo é uma mulher explicando um pouco sobre sabotadores e no final, traz uma menção sobre a necessidade deles em nossas quando adultos.
 
+[Clique Aqui](https://github.com/marianagmmarques/lab-natty-or-not/blob/main/Exerc%C3%ADcio%20DIO.mp4)
+
 ## 💭 Reflexão (Opcional)
 Esse projeto foi bacana, foi meu primeiro avatar, então ficou legal.
